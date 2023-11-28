@@ -1,0 +1,39 @@
+{
+   "prefix": "!",
+   "ownerIDS": [
+      "1110224787726422056"
+   ],
+   "bannermusic": "",
+   "memer_api": "xxxx",
+   "status": {
+      "text": "!help | Cylic Network",
+      "text2": "!help | Cylic Network",
+      "type": "WATCHING",
+      "url": "https://www.twitch.tv/"
+   },
+   "clientsettings": {
+      "nodes": [
+         {
+            "host": "narco.buses.rocks",
+            "port": 2269,
+            "password": "glasshost1984",
+            "secure": false
+         }
+      ]
+   },
+   "spotify": {
+      "clientSecret": "053469ffeb3844079fab734ebf3090c2",
+      "clientID": "bf5ee2a72bae40ffadc71a47280e5ff9"
+   },
+   "settings": {
+      "leaveOnEmpty_Channel": {
+         "enabled": true,
+         "time_delay": 30000
+      },
+      "LeaveOnEmpty_Queue": {
+         "enabled": true,
+         "time_delay": 30000
+      },
+      "selfDeaf": true
+   }
+}
